@@ -124,6 +124,7 @@
     <pluralLabel>Contacts</pluralLabel>
     <searchLayouts/>
     <fields>
+
         <fullName>Account__c</fullName>
         <externalId>false</externalId>
         <isFilteringDisabled>false</isFilteringDisabled>
